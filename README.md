@@ -4,6 +4,8 @@
 
 **Important**: because the Thanksgiving break follows this due date, we're "ignoring" Thursday when computing lateness. So, Wednesday 27th at 11:59pm is one day late, Fri 29th at 11:59pm is two days late, Sat 30th at 11:59pm is three days late, and Sun 31st at 11:59pm is four days late (and the **last day you can submit**).  I will repeat that:  you may not submit the assignment after Sunday night.  The TAs have exams so on, and need time to grade.   Emergencies that occur **after** the original due date (Tuesday 26th) will not be grounds for an extension past Sunday. 
 
+**Update**: we will only be deducting 2.5% per day late, instead of 5%, to allow people who want or need to use part of the Thanksgiving break to do so without a huge penalty.  The official due date is still Tuesday the 26th.
+
 You will notice there is no sample code for this assignment.  You can structure the assignment as you wish.  The only requirements are discussed at the bottom of this document, and are meant to simplify the job of the TAs (e.g., you should name the top-level page a5.html, and follow a few simple instructions, so the TAs know how to run it).
 
 You can use WebGL, or use another library on top of WebGL, such as http://threejs.org, http://www.babylonjs.com, etc.  However, if you use a higher level library, you will be required to pick one of the bonus parts and implement it as part of your assignment (since the higher level library simplifies many of the tasks you need to do, especially picking/selection). The assignment is designed such that you can do it using WebGL alone, with the techniques and tools you already know.  But, if you want to learn a more powerful 3D library, this would be a good opportunity.
