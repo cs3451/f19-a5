@@ -78,7 +78,7 @@ Make sure you submit any assets, such as image files you load in as textures.  D
 
 Your web page should be titled ```a5.html``` and your main .ts file should be ```a5.ts```, so the TAs know where to look.    
 
-You should set up your project to build with gulp, as in the fourth assignment, and should let the TAs cd into the directory and type:
+You should set up your project to build as the fourth assignment, and should let the TAs cd into the directory and type:
 
 1. cd into the directory and run ```npm install```
 
